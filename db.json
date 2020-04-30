@@ -1,20 +1,13 @@
 {
+  "localdiscovery" : {
   "serverurl": "https://walmartds.ssdevrd.com",
   "gid": "wmt_ae",
   "un": "wmt_ae_%MODEL%",
   "pw": "wmt_ae_%MODEL%",
-  "deviceModelsMap": {
-    "G82": [
-      "G8232",
-      "G82320"
-    ],
-    "TC75": [
-      "TC75",
-      "TC750",
-      "TC75x"
-    ],
-    "TC51": [
-      "TC51"
-    ]
-  }
+ "deviceModelsMap": {
+"G82":["G8232","G82320"],
+"TC75":["TC75","TC750","TC75x"],
+"TC51":["TC51"]
+}
+}
 }
